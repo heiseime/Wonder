@@ -1,0 +1,437 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View>
+  <View
+    style={
+      Array [
+        Object {
+          "marginLeft": 15,
+          "marginRight": 15,
+        },
+        undefined,
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "height": 15,
+          },
+          undefined,
+        ]
+      }
+    />
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+          },
+          undefined,
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "justifyContent": "flex-start",
+            },
+            undefined,
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "flex": 1,
+              },
+              undefined,
+            ]
+          }
+        >
+          <View
+            accessible={true}
+            focusable={true}
+            isTVSelectable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "borderRadius": 5,
+                  "borderWidth": 1,
+                  "justifyContent": "center",
+                },
+                Object {
+                  "height": 47,
+                  "paddingLeft": 15,
+                  "paddingRight": 15,
+                },
+                Object {
+                  "backgroundColor": "#ffffff",
+                  "borderColor": "#dddddd",
+                },
+                Object {
+                  "backgroundColor": "#dddddd",
+                  "borderColor": "#dddddd",
+                },
+                false,
+                undefined,
+                undefined,
+              ]
+            }
+          >
+            <View
+              style={
+                Object {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "fontSize": 18,
+                    },
+                    Object {
+                      "color": "#000000",
+                    },
+                    Object {
+                      "color": "#0000004D",
+                    },
+                    false,
+                  ]
+                }
+              >
+                &lt;
+              </Text>
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "flex": 1,
+              },
+              undefined,
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                },
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#108ee9",
+                    "fontSize": 18,
+                  },
+                ]
+              }
+            >
+              1
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000000",
+                    "fontSize": 18,
+                  },
+                ]
+              }
+            >
+              /
+              1
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "flex": 1,
+              },
+              undefined,
+            ]
+          }
+        >
+          <View
+            accessible={true}
+            focusable={true}
+            isTVSelectable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "borderRadius": 5,
+                  "borderWidth": 1,
+                  "justifyContent": "center",
+                },
+                Object {
+                  "height": 47,
+                  "paddingLeft": 15,
+                  "paddingRight": 15,
+                },
+                Object {
+                  "backgroundColor": "#ffffff",
+                  "borderColor": "#dddddd",
+                },
+                Object {
+                  "backgroundColor": "#dddddd",
+                  "borderColor": "#dddddd",
+                },
+                false,
+                undefined,
+                undefined,
+              ]
+            }
+          >
+            <View
+              style={
+                Object {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "fontSize": 18,
+                    },
+                    Object {
+                      "color": "#000000",
+                    },
+                    Object {
+                      "color": "#0000004D",
+                    },
+                    false,
+                  ]
+                }
+              >
+                &gt;
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#fff",
+        "flex": 1,
+        "padding": 16,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          undefined,
+          Object {
+            "borderBottomWidth": 2,
+            "borderColor": "#c8e1ff",
+            "borderLeftWidth": 2,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            undefined,
+            0,
+            Object {
+              "flexDirection": "row",
+              "overflow": "hidden",
+            },
+            Object {
+              "backgroundColor": "#f1f8ff",
+              "height": 40,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "borderColor": "#c8e1ff",
+                "borderRightWidth": 2,
+                "borderTopWidth": 2,
+              },
+              Object {
+                "justifyContent": "center",
+              },
+              undefined,
+              undefined,
+              undefined,
+              Object {
+                "flex": 1,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "margin": 6,
+                },
+                Object {
+                  "backgroundColor": "transparent",
+                },
+              ]
+            }
+          >
+            title
+          </Text>
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "borderColor": "#c8e1ff",
+                "borderRightWidth": 2,
+                "borderTopWidth": 2,
+              },
+              Object {
+                "justifyContent": "center",
+              },
+              undefined,
+              undefined,
+              undefined,
+              Object {
+                "flex": 1,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "margin": 6,
+                },
+                Object {
+                  "backgroundColor": "transparent",
+                },
+              ]
+            }
+          >
+            URL
+          </Text>
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "borderColor": "#c8e1ff",
+                "borderRightWidth": 2,
+                "borderTopWidth": 2,
+              },
+              Object {
+                "justifyContent": "center",
+              },
+              undefined,
+              undefined,
+              undefined,
+              Object {
+                "flex": 1,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "margin": 6,
+                },
+                Object {
+                  "backgroundColor": "transparent",
+                },
+              ]
+            }
+          >
+            created_at
+          </Text>
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "borderColor": "#c8e1ff",
+                "borderRightWidth": 2,
+                "borderTopWidth": 2,
+              },
+              Object {
+                "justifyContent": "center",
+              },
+              undefined,
+              undefined,
+              undefined,
+              Object {
+                "flex": 1,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "margin": 6,
+                },
+                Object {
+                  "backgroundColor": "transparent",
+                },
+              ]
+            }
+          >
+            author
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
